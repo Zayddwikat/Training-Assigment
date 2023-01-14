@@ -1,0 +1,24 @@
+*
+{
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+}
+button {
+    margin-left: 50em;
+}
+.card{
+    margin-top: 10em;
+    margin-left: 20em;
+
+}
+.card-body
+{
+    background-image: url("/uploads/highway.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+
+}

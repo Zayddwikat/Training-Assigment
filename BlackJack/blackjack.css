@@ -1,0 +1,48 @@
+body
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("Photo/zayd.jpeg");
+    background-size: cover;
+    color: white;
+}
+h1
+{
+    color: goldenrod;
+}
+#massege-id
+{
+    font-style: italic;
+}
+#button-id
+{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding: 5px 0;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+#NewCard
+{
+    margin-top: 10px;
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding: 5px 0;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+#NewGame
+{
+    margin-top: 10px;
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding: 5px 0;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
